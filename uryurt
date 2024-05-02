@@ -3,7 +3,7 @@
 EOF
 
 ---------------------------------------------------
-sudo mv $HOME/celestia-appd.service /etc/systemd/system/
+sudo mv $HOME/celestia-appd.service /etc/systemd/syste
 
 ----------------------------------------------------
 sudo systemctl enable celestia-appd
